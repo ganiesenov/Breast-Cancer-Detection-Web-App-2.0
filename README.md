@@ -1,12 +1,7 @@
-# Breast Cancer Detection Web Application
-
-
-![Site 
-](https://breast-cancer-detection-web-app.onrender.com)
 
 
 
-#### Working link: (Deployed on ) 
+#### Working link: (Deployed on https://breast-cancer-detection-web-app.onrender.com) 
 
 ### 1.Project Requirements or Dependencies
 * Pip install flask (For Front-end)
